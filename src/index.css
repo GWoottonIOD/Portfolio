@@ -20,9 +20,9 @@
 }
 
 .gradient {
-  background: #000000; /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #434343, #000000);
-  background: linear-gradient(to right, #434343, #000000);
+  background: #FFFEE8; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #434343, #FFFEE8);
+  background: linear-gradient(to right, #434343, #FFFEE8);
 }
 
 .violet-gradient {
